@@ -31,5 +31,6 @@ export default function useUser(userId) {
 
     fetchUserData()
   },[userId])
+  
   return { user, loading, error }
 }
