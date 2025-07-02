@@ -1,0 +1,6 @@
+# 整形対象外のファイル
+node_modules
+dist
+build
+.next
+*.min.js
